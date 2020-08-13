@@ -1,1 +1,3 @@
-# xo
+# XO Game 
+
+Build using JS
